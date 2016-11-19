@@ -1,4 +1,4 @@
-## Dail-Up View 
+## Dial-Up View 
 
 It is not yet stable, please fork and improve it 😇
 
